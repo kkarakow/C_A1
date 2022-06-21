@@ -1,0 +1,3 @@
+﻿  assignment1_Katarzyna_Karakow.c
+\\mac\home\Desktop\SEMESTER 4\NETC#\PROJECTS\Assignment1_Katarzyna_Karakow\Assignment1_Katarzyna_Karakow\assignment1_Katarzyna_Karakow.c(78,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+  Assignment1_Katarzyna_Karakow.vcxproj -> \\mac\home\Desktop\SEMESTER 4\NETC#\PROJECTS\Assignment1_Katarzyna_Karakow\Debug\Assignment1_Katarzyna_Karakow.exe
